@@ -1,0 +1,10 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="$USER_HOME$/Develop/projects/hyperk/eval/sdf/env3/bin/python" />
+        <option value="$USER_HOME$/Develop/projects/odin/venv-2.7/bin/python" />
+      </set>
+    </option>
+  </component>
+</application>
